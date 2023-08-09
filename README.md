@@ -1,6 +1,11 @@
 # TravelLand - Travel Landing Page with Side Navigation
 
-![TravelLand Demo](demo.gif)
+![1](https://github.com/abdul-1432/Travelling_Landing_Page/assets/124916666/8668cd1e-e236-4f4b-b0e3-db939504678a)
+
+![2](https://github.com/abdul-1432/Travelling_Landing_Page/assets/124916666/b95f6f18-9728-4e5f-b97a-dcc8c1185d7a)
+
+
+
 
 TravelLand is a modern and visually appealing travel landing page template featuring a stylish side navigation menu. This template is designed to showcase travel destinations, offers, and other travel-related content in a captivating way. With its intuitive user interface and engaging design, TravelLand is an excellent choice for anyone looking to create an impressive online presence for their travel agency, tour operator, or travel blog.
 
