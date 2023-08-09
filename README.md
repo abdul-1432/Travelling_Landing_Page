@@ -1,4 +1,4 @@
-# TravelLand - Travel Landing Page with Side Navigation
+# TravelLand - Travel Landing Page with Side Navigation Bar
 
 ![1](https://github.com/abdul-1432/Travelling_Landing_Page/assets/124916666/8668cd1e-e236-4f4b-b0e3-db939504678a)
 
