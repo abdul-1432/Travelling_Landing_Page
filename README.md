@@ -4,6 +4,7 @@
 
 ![2](https://github.com/abdul-1432/Travelling_Landing_Page/assets/124916666/b95f6f18-9728-4e5f-b97a-dcc8c1185d7a)
 
+![3](https://github.com/abdul-1432/Travelling_Landing_Page/assets/124916666/6d0d3960-26a9-49dc-8a01-5dd05c6bf200)
 
 
 
