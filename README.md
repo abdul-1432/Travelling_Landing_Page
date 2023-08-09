@@ -27,7 +27,7 @@ TravelLand is a modern and visually appealing travel landing page template featu
 
 ## Usage
 
-1. Clone this repository to your local machine using `git clone https://github.com/yourusername/travelland.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/abdul-1432/Travelling_Landing_Page`.
 
 2. Navigate to the project directory: `cd travelland`.
 
@@ -35,7 +35,7 @@ TravelLand is a modern and visually appealing travel landing page template featu
 
 4. Customize the content and styling to match your branding and preferences. You can modify text, images, colors, and other elements as needed.
 
-5. Replace images in the `img` directory with your own high-quality images. Make sure to update the image paths in the HTML file accordingly.
+5. Replace images in the `image` directory with your own high-quality images. Make sure to update the image paths in the HTML file accordingly.
 
 6. Test the responsiveness of the landing page by resizing your browser window or using a device emulator.
 
@@ -52,7 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Get in Touch
 
-If you have any questions, feedback, or suggestions, feel free to reach out to us at contact@travelandpage.com.
+If you have any questions, feedback, or suggestions, feel free to reach out to us at gafoor.mngr@gmail.com.
 
 Enjoy using TravelLand for your travel website!
 
